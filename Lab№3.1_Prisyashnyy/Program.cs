@@ -1,7 +1,7 @@
 ﻿//Сборник задач/тема 3/подтема 3.1/средний уровень/вариант 6
 try
 {
-    Console.WriteLine("Введите k:");
+    Console.Write("Введите k:");
     double k = double.Parse(Console.ReadLine());
     double w = 0;
     for (double i = -2; i <= k; i++)
